@@ -44,6 +44,7 @@ div .active {
     height: 85px;
     font-size: 2.15em;
     background-color: rgba(95, 180, 208, 1);
-    box-shadow: 0 0 38px 2px rgba(244, 186, 123, 1);
+    /* box-shadow: 0 0 38px 2px rgba(244, 186, 123, 1); */
+    box-shadow: 0 0 38px 2px rgba(95, 180, 210, 1);
 }
 
