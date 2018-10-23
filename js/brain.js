@@ -68,7 +68,7 @@ document.addEventListener("keydown", function (event) {
 // These code is for touchscreen users
 let keysDiv = document.querySelector("#keys");
 
-keysDiv.addEventListener("click", function (event) {
+keysDiv.addEventListener("touchstart", function (event) {
     // This variable will store the Id of the click element
     let currentElementId = event.target.id;
 
